@@ -29,19 +29,19 @@
             "id": "mobile",
             "env": "production",
             "minVersion": "1.1.18",
-            "maintenance": false
+            "maintenance": true
          },
          {
             "id": "mobile",
             "env": "preview",
             "minVersion": "1.1.12",
-            "maintenance": false
+            "maintenance": true
          },
          {
             "id": "mobile",
             "env": "development",
             "minVersion": "1.0.85",
-            "maintenance": false
+            "maintenance": true
          }
       ]
    }
