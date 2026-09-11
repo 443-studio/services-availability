@@ -37,7 +37,7 @@
             "env": "production",
             "minVersion": "0.0.0",
             "maintenance": false
-         },
+         }
       ]
    },
    {
