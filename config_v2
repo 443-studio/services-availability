@@ -1,0 +1,21 @@
+{
+   "defaults": { "minVersion": "0.0.0", "maintenance": false },
+   "apps": {
+      "spotfish": {
+         "mobile": {
+            "production": { "minVersion": "2.0.10" },
+            "preview": { "minVersion": "2.0.0" },
+            "development": { "minVersion": "2.0.0" }
+         },
+         "web": {}
+      },
+      "suedtirol-fishing": {
+         "mobile": {
+            "production": { "minVersion": "1.1.27" },
+            "preview": { "minVersion": "1.1.12" },
+            "development": { "minVersion": "1.0.85" }
+         },
+         "web": {}
+      }
+   }
+}
