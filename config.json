@@ -5,7 +5,7 @@
          {
             "id": "mobile",
             "env": "production",
-            "minVersion": "2.0.6",
+            "minVersion": "2.0.10",
             "maintenance": false
          },
          {
@@ -46,7 +46,7 @@
          {
             "id": "mobile",
             "env": "production",
-            "minVersion": "1.1.18",
+            "minVersion": "1.1.27",
             "maintenance": false
          },
          {
