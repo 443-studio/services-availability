@@ -3,14 +3,14 @@
    "apps": {
       "spotfish": {
          "mobile": {
-            "production": { "minVersion": "2.0.10" },
+            "production": { "minVersion": "2.0.13" },
             "preview": { "maintenance": true }
          },
          "web": {}
       },
       "suedtirol-fishing": {
          "mobile": {
-            "production": { "minVersion": "1.1.27" },
+            "production": { "minVersion": "1.1.30" },
             "preview": { "maintenance": true }
          },
          "web": {}
